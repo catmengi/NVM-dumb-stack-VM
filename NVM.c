@@ -163,11 +163,11 @@ void VMexec(OPCODES INSTR,int FRST,int SECN,int THRD,int FOUR)
         STACK[SP] = 0;
         SP--;
         }
+        temp2 = STACK[SP];
         if(SP>0){   
         STACK[SP] = 0;
         SP--;
         }
-        temp2 = STACK[SP];
         if(temp1 == temp2)
         {
           if(MAX_AMOUNT_OF_INSTRUCTIONS>FRST)
