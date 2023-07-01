@@ -42,4 +42,4 @@ int LFV;
 int LFVC;
 int sRAM[sRAM_SIZE];
 //int VARSCURSIZE;
-typedef unsigned short WORD;
+//typedef unsigned short WORD;
