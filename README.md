@@ -7,4 +7,3 @@ ready:variable,ifelse equals,ifelse not equals,push,pop to sRAM,push from sRAM(n
 Who wants to help me with this project pls communicate with me via github(idk how) or via my email:catengineerforever@gmail.com
 COMPILE INFO:
 -LINUX: compiles with just:"gcc NVM.c -o NVM"
--WINDOWS compiles with just:"gcc NVM.c -o NVM.exe" for Windows(needs to gcc be installed already(via MSYS2?))
